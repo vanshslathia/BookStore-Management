@@ -118,4 +118,4 @@ Contributions are welcome! If you'd like to improve the project:
 5. Open a Pull Request
 
 ## Contact
-If you have any questions or suggestions regarding this project, feel free to contact us at [abhijeetthakur7080@gmail.com](mailto:abhijeetthakur7080@gmail.com).
+If you have any questions or suggestions regarding this project, feel free to contact us at [abhijeetthakur7080@gmail.com](mailto:abhijeetkumar431323@gmail.com).
