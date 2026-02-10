@@ -1,4 +1,4 @@
-![Tests](https://github.com/Abhithakur7080/bookstore/actions/workflows/test.yml/badge.svg)
+![Tests](https://github.com/your-username/bookstore/actions/workflows/test.yml/badge.svg)
 
 <h1 align="center" style="font-size: 36px;">
   <img src="./client/src/assets/thumbnail.png" width="35"/> BOOK STORE
@@ -63,8 +63,8 @@ To run this project locally:
 ### 🔐 Backend (Node.js + Express)
 
 ```bash
-git clone https://github.com/Abhithakur7080/bookstore.git
-cd bookstore/backend
+git clone https://github.com/your-username/bookstore.git
+cd bookstore/server
 npm install
 npm run dev
 ```

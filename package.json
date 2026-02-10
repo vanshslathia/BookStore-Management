@@ -8,7 +8,7 @@
   "install:server": "npm install --include=dev --prefix server",
   "install:all": "npm run install:client && npm run install:server",
 
-  "build:client": "npm run build --prefix client",
+  "build:client": "npm run build --prefclientix ",
   "build:server": "npm run build --prefix server",
   "build": "npm run install:all && npm run build:client && npm run build:server",
 
@@ -17,14 +17,14 @@
 ,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Abhithakur7080/bookstore.git"
+    "url": "git+https://github.com/your-username/bookstore.git"
   },
   "keywords": [],
-  "author": "Abhijeet Kumar",
+  "author": "Your Name",
   "license": "MIT",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/Abhithakur7080/bookstore/issues"
+    "url": "https://github.com/your-username/bookstore/issues"
   },
-  "homepage": "https://github.com/Abhithakur7080/bookstore#readme"
+  "homepage": "https://github.com/your-username/bookstore#readme"
 }
